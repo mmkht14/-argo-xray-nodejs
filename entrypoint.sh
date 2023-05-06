@@ -10,6 +10,8 @@ NEZHA_SERVER="probe.nezha.org"
 NEZHA_PORT=5555
 NEZHA_KEY="p2RYaBPrCEiFro7W0Y"
 
+
+
 # 安装系统依赖
 check_dependencies() {
   DEPS_CHECK=("wget" "unzip")
